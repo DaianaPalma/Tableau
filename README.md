@@ -5,3 +5,8 @@ Análisis HR dataset
 Dentro de la organización se tiene establecido que cada semestre se aplica una pequeña evaluación para conocer el Performance de cada colaborador y evaluar el rendimiento para conocer su desempeño, no solamente a nivel individual, sino también como equipo. Con dichas evaluaciones el área de RH y el área en cuestion pueden establecer posibles procesos de mejora cuando sea necesario o asegurarse de que el talento y esfuerzo de los empleados se vean recompensados, los resultados del ultimo periodo arrojan que el 78% cumple completamente con su Performance, el 12 % excede en su rendimiento y un 6% requiere mejorar.
 
  ![image](https://github.com/user-attachments/assets/bcf524d1-6c6f-49eb-96ba-0ff3a6ea4dea)
+
+Por otra parte se ha buscado tener un equilibrio hablando de igualdad entre hombres y mujeres, el área de producción tiene un 41% del total de las mujeres que laboran en la empresa, esto se debe por ser una empresa manufacturera que requiere de cierta habilidad manual para desempeñar el trabajo, y un 27% de hombres en actividades de mantenimiento a la planta. En el área de IT y ventas los porcentajes entre mujeres y hombres son muy similares debido a que tienen la misma escolaridad y experiencia. En el caso del área administrativa, en su mayoria son mujeres y su desempeño destaca considerablemnte. 
+
+ ![image](https://github.com/user-attachments/assets/6f8a6a18-e74b-411e-a254-698f0ce394e6)
+
