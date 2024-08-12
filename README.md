@@ -1,4 +1,4 @@
-                                      # Historial de los Colaboradores de "La Empresa"
+                                           # Historial de Colaboradores de "La Empresa"
 
 
 En el año 2006 la empresa se registro con un empleado, y fue hasta el año 2011 que tuvo un despegue con una contratación masiva de 83 colaboradores y nuevamente 3 años despues tuvo una nueva contratación de 60 personas más.
